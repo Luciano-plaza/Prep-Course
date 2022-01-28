@@ -57,7 +57,7 @@ function filter(array) {
   //Tu código:
 const filtro = array.filter(array => array[0] === "a");
   return filtro;
-}                                 //npm test JSVI.test.js
+}
 
 // No modificar nada debajo de esta línea
 // --------------------------------
